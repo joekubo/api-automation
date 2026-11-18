@@ -3,7 +3,6 @@ package com.tolclin.qa.api_automation.services;
 import org.junit.jupiter.api.Test;
 
 import com.tolclin.qa.api_automation.base.BaseTest;
-
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
